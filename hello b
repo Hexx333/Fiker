@@ -1,0 +1,18 @@
+ /*    
+ *Armin van Buuren (ur. 25 grudnia 1976 w Lejdzie) – holenderski DJ, producent muzyki trance, z wykształcenia prawnik[1]. Jeden z najpopularniejszych i utytułowanych DJ-ów na świecie[2]. W zestawieniu DJ Mag Top 100 Armin van Buuren uzyskał pierwsze miejsce w latach 2007–2010 i 2012[3][4][5][6][7], drugie w 2006, 2011 i 2013[8][9][10], trzecie w latach 2003–2005, 2014 i 2017[11][12][13][14][15], czwarte w 2015, 2016, 2018, 2019 i 2020[16][17], piąte w 2002[18] oraz dwudzieste siódme w 2001 roku[19]. Obecnie prowadzi w radiu cotygodniowy show „A State of Trance” (ASOT), które jest najchętniej słuchanym show radiowym na świecie z przeszło 30 milionami słuchaczy tygodniowo w ponad 40 krajach[20].
+ *// Anyone can call this. public void StartEngine() {/* Method statements here */ } 
+#include <stdio.h>
+
+/*
+
+void sayHello (void) {
+   printf ("Hello world!\n");
+}
+this is a "main function". the compiled program will run the code defined here
+/
+int main (void)
+{
+    invoke the say hello ()function.
+    say hello() ;
+    return 0   
+}
